@@ -1,0 +1,5 @@
+*.pyc
+/media
+/static
+__pycache__
+db.sqlite3
